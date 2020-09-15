@@ -1,2 +1,2 @@
-# jk-BTS-
+# jk-BTS
 dynamite
