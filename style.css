@@ -2,7 +2,7 @@
  *{box-sizing: border-box; margin: 0; padding: 0;
  }
  h1{text-align:
-center;color: purple;margin-bottom: 10px;background:url("jk.png") no-repeat top center; height: 180px;
+center;color:yellow;margin-bottom: 10px;background:url("jk.png") no-repeat top center; height: 180px;
  }
  #contentbox,#contents{background-color: lightblue;
 border:solid black; width:33.3333%;
